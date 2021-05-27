@@ -1,3 +1,3 @@
 # web-ticketing-system
 Project for web programming course.
-Technologies used: php, mysql, xampp
+Technologies used: php, mysql, xampp, javascript, bootstrap
